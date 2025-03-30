@@ -9,7 +9,7 @@ pip installs:
 pip install PyQt5      
 pip install customtkinter 
 
-# Changelog [Version 1.0]:
+# Changelog [Version 1.0]
 Initial release with basic database operations.
 Added create, open, backup, and import CSV features.
 Implemented table and data management functionalities.
